@@ -58,13 +58,13 @@ sudo apt install casper-client -y
 
 ### All Test Cases<a name="all-test-cases"></a>
 
-Tests require that the CasperLabs-UniswapV2-core repository to be checked out
+Tests require that the CasperLabs-UniswapV2-Core repository to be checked out
 into a sibling directory (one up from the current directory).
 
 ```
 cd ..
 
-git clone git@github.com:Rengo-Labs/CasperLabs-UniswapV2-core.git
+git clone git@github.com:Rengo-Labs/CasperLabs-UniswapV2-Core.git
 ```
 
 To build the contracts and run the tests, first navigate back to this directory
